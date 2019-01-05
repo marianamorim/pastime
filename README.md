@@ -14,4 +14,4 @@ See also the list of [contributors](https://github.com/marianamorim/pastime/grap
 
 ## License
 
-This project is Unlicense - see the [LICENSE.md](LICENSE.md) file for details.
+This project is Unlicense - see the [LICENSE.md](https://github.com/marianamorim/pastime/blob/master/LICENSE) file for details.
